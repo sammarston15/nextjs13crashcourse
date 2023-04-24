@@ -1,0 +1,3 @@
+*you are following along with Traversy Media. The video URL is https://youtu.be/Y6KDk5iyrYE
+
+4/7/2023 - you went through setting up the app, page routes, layout for the app, etc. You left off at 24:55/1:22:44 of the video. You are about to put together a backend code repo file structure.
